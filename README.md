@@ -192,5 +192,6 @@ Vlan99 is up, line protocol is down
 BW: BW 100000 Kbit
 Queueing strategy: fifo ( first in first out )
 
+###### 9 Vérifier la connectivité du réseau ainsi formé, en envoyant des ping. Donner les étapes pour réaliser cette connectivité.
 
-
+En métant les deux interface réseau 
